@@ -9,7 +9,9 @@ A Framework for Driver Drowsiness Monitoring using a Convolutional Neural Networ
 ![Fig 11_b](https://user-images.githubusercontent.com/25396979/203799239-edf6666f-4221-45a6-83ef-94afd6d91fe5.png)
 
 
-# References
+# References and Dataset
 https://towardsdatascience.com/the-w3h-of-alexnet-vggnet-resnet-and-inception-7baaaecccc96 <br>
 https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks <br>
 http://www.bmva.org/bmvc/2015/papers/paper041/index.html <br>
+https://arxiv.org/abs/1904.07312 <br>
+https://www.kaggle.com/datasets/prasadvpatil/mrl-dataset
