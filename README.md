@@ -1,5 +1,4 @@
 # Result
-[gambar.zip](https://github.com/jagoan34/paper/files/10085041/gambar.zip)
 ![Fig 8_a](https://user-images.githubusercontent.com/25396979/203799192-81011734-ea7f-46f4-abbe-eaba1e6bf09f.png)
 ![Fig 8_b](https://user-images.githubusercontent.com/25396979/203799205-3147f2b3-2266-4c4b-8c4f-c4c55cd7bea1.png)
 ![Fig 9_a](https://user-images.githubusercontent.com/25396979/203799217-ac35b688-f704-4c44-a64d-1ee304effdfc.png)
