@@ -10,6 +10,6 @@ A Framework for Driver Drowsiness Monitoring using a Convolutional Neural Networ
 
 
 # References
-https://towardsdatascience.com/the-w3h-of-alexnet-vggnet-resnet-and-inception-7baaaecccc96
-https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
-http://www.bmva.org/bmvc/2015/papers/paper041/index.html
+!https://towardsdatascience.com/the-w3h-of-alexnet-vggnet-resnet-and-inception-7baaaecccc96
+!https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
+!http://www.bmva.org/bmvc/2015/papers/paper041/index.html
